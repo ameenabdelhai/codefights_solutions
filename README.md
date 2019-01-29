@@ -1,2 +1,1 @@
-## Welcome to GitHub Pages
-@author: Ameen Abdel Hai
+## Welcome to GitHub 
